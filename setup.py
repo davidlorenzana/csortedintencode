@@ -4,7 +4,7 @@ from Cython.Build import cythonize
 setup(
     name="csortedintencode",
     version="0.1.0",
-    description="",
+    description="Efficient encoding and decoding of sorted lists of integers.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="David Lorenzana",

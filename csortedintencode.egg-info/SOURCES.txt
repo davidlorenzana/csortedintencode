@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-csortedintencode/__init__.py
-csortedintencode/delta_varint_sortedint.c
-csortedintencode.egg-info/PKG-INFO
-csortedintencode.egg-info/SOURCES.txt
-csortedintencode.egg-info/dependency_links.txt
-csortedintencode.egg-info/top_level.txt
